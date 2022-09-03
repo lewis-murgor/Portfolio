@@ -24,9 +24,13 @@ body{
     margin-top: 2%;
 }
 .about-me {
-    margin-top: 2%;
+    margin-top: 3%;
 }
 hr {
     background-color: white;
     margin-top: 3%;
+}
+#icons {
+    height: 65px;
+    width: 65px;
 }
