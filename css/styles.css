@@ -19,3 +19,14 @@ body{
 .lewis {
     font-family: Lemonada;
 }
+.about {
+    text-align: center;
+    margin-top: 2%;
+}
+.about-me {
+    margin-top: 2%;
+}
+hr {
+    background-color: white;
+    margin-top: 3%;
+}
