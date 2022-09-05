@@ -3,7 +3,7 @@
     color: white;
 }
 nav {
-    background-color: rgba(36, 34, 34, 0.938);
+    background-color: rgba(14, 13, 13, 0.938);
 }
 body{
     background-color: rgba(19, 18, 18, 0.938);
@@ -33,4 +33,10 @@ hr {
 #icons {
     height: 65px;
     width: 65px;
+}
+.skills {
+    text-align: center;
+}
+h3 {
+    font-family: Roboto;
 }
