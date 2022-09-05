@@ -36,7 +36,21 @@ hr {
 }
 .skills {
     text-align: center;
+    margin-top: 2%;
 }
 h3 {
     font-family: Roboto;
+}
+.card-body {
+    background-color: rgba(19, 18, 18, 0.938);
+    border-radius: 8px;
+}
+.skill {
+    margin-top: 3%;
+}
+.list {
+    float: left;
+}
+ul {
+    margin-top: 2%;
 }
