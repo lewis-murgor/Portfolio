@@ -49,8 +49,16 @@ h3 {
     margin-top: 3%;
 }
 .list {
-    float: left;
+    display: inline-block;
+    text-align: center;
 }
 ul {
     margin-top: 2%;
+}
+.technology {
+    text-align: center;
+    margin-top: 2%;
+}
+.lists {
+    float: left;
 }
