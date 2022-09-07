@@ -69,7 +69,9 @@ ul {
 }
 .footer {
     text-align: center;
-    margin-top: 2%;
+    margin-top: 3%;
+    width: 100%;
+    align-self: end;
 }
 #icon {
     height: 40px;
@@ -78,9 +80,8 @@ ul {
 footer {
     clear: both;
     position: relative;
-    height: 200px;
-    margin-top: -200px;
-    
+    height: 125px;
+    margin-top: -100px;  
 }
 #footer {
     background-color: rgba(14, 13, 13, 0.938);
