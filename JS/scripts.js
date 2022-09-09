@@ -4,4 +4,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#blog").hide();
     });
+
+    $(".pitch").mouseover(function() {
+        $("#pitch").show();
+    }).mouseout(function() {
+        $("#pitch").hide();
+    });
 });
