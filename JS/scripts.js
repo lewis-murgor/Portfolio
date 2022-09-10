@@ -10,4 +10,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#pitch").hide();
     });
+
+    $(".gallery").mouseover(function() {
+        $("#gallery").show();
+    }).mouseout(function() {
+        $("#gallery").hide();
+    });
 });
