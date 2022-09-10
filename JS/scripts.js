@@ -16,4 +16,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#gallery").hide();
     });
+
+    $(".delani").mouseover(function() {
+        $("#delani").show();
+    }).mouseout(function() {
+        $("#delani").hide();
+    });
 });
