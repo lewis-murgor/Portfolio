@@ -1,5 +1,8 @@
 .projects {
-    margin-top: 5%;
+    margin-top: 2%;
+}
+.project {
+    margin-top: 3%;
 }
 .card-footer {
     background-color: rgba(19, 18, 18, 0.938);
