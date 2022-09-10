@@ -28,4 +28,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#quotes").hide();
     });
+
+    $(".akan").mouseover(function() {
+        $("#akan").show();
+    }).mouseout(function() {
+        $("#akan").hide();
+    });
 });
