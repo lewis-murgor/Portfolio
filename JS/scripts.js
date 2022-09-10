@@ -22,4 +22,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#delani").hide();
     });
+
+    $(".quotes").mouseover(function() {
+        $("#quotes").show();
+    }).mouseout(function() {
+        $("#quotes").hide();
+    });
 });
