@@ -34,4 +34,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#akan").hide();
     });
+
+    $(".insta").mouseover(function() {
+        $("#insta").show();
+    }).mouseout(function() {
+        $("#insta").hide();
+    });
 });
