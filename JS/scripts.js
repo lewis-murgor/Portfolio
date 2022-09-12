@@ -40,4 +40,10 @@ $(document).ready(function() {
     }).mouseout(function() {
         $("#insta").hide();
     });
+
+    $(".neighborhood").mouseover(function() {
+        $("#neighborhood").show();
+    }).mouseout(function() {
+        $("#neighborhood").hide();
+    });
 });
