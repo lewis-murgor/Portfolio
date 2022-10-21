@@ -45,8 +45,24 @@ hr {
     margin-top: 3%;
 }
 #icons {
-    height: 65px;
-    width: 65px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 45px;
+    width: 45px;
+}
+
+.icons {
+    position: relative;
+    background-color: white;
+    margin: 20px auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 200px;
+}
+.text {
+    margin-top: 3%;
 }
 .skills {
     text-align: center;
@@ -98,3 +114,4 @@ footer {
 #footer {
     background-color: rgba(14, 13, 13, 0.938);
 }
+
