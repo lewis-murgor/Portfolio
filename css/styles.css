@@ -7,7 +7,6 @@
 }
 nav {
     background-color: rgba(14, 13, 13, 0.938);
-    
 }
 html {
     width: 100%;
@@ -32,6 +31,8 @@ body{
 }
 .murgor {
     font-family: Kalam;
+    text-align: center;
+    margin-top: 4%;
 }
 .about {
     text-align: center;
@@ -52,7 +53,6 @@ hr {
     height: 45px;
     width: 45px;
 }
-
 .icons {
     position: relative;
     background-color: white;
@@ -104,6 +104,8 @@ ul {
 #icon {
     height: 40px;
     width: 40px;
+    background-color: white;
+    border-radius: 50px;
 }
 footer {
     clear: both;
@@ -114,4 +116,12 @@ footer {
 #footer {
     background-color: rgba(14, 13, 13, 0.938);
 }
-
+.footer_icons {
+    float: left;
+}
+.copy {
+    float: right;
+    color: white;
+    margin-right: 2%;
+    margin-top: 1%;
+}
