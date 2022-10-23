@@ -5,15 +5,15 @@
     margin-top: 3%;
     align-items: center;
 }
-#message {
+#Message {
     background: transparent;
     color: white;
 }
-#name {
+#Name {
     background: transparent;
     color: white;
 }
-#email {
+#Email {
     background: transparent;
     color: white;
 }
