@@ -1,0 +1,31 @@
+.contact {
+    margin-top: 3%;
+}
+.contact_me {
+    margin-top: 3%;
+    align-items: center;
+}
+#message {
+    background: transparent;
+    color: white;
+}
+#name {
+    background: transparent;
+    color: white;
+}
+#email {
+    background: transparent;
+    color: white;
+}
+.btn {
+    background: white;
+    color: black;
+}
+#send {
+    text-align: center;
+    margin-top: 3%;
+}
+#mail {
+    height: 33px;
+    width: 33px;
+}
