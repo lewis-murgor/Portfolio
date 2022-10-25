@@ -125,3 +125,16 @@ footer {
     margin-right: 2%;
     margin-top: 1%;
 }
+
+@media screen and (max-width: 768px) {
+    .links {
+        display: none;
+    }
+    .murgor {
+        display: none;
+    }
+    #icon {
+        height: 30px;
+        width: 30px;
+    }
+}
