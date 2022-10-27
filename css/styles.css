@@ -2,11 +2,9 @@
     font-family: Courgette;
     color: white;
 }
-#right {
-    color: white;
-}
-nav {
-    background-color: rgba(32, 30, 30, 0.884);
+.navbar-nav {
+    margin-left: 75%;
+    margin-bottom: 0%;
 }
 html {
     width: 100%;
@@ -14,20 +12,14 @@ html {
 }
 body{
     width: 100%;
-    margin: 0;
-    padding: 0;
     overflow-x: hidden;
     color: white;
+    background-color: rgba(14, 13, 13, 0.938);
 }
 .flex {
     background-color: rgba(14, 13, 13, 0.938);
     color: white;
 }
-.body {
-    background-color: rgba(14, 13, 13, 0.938);
-    color: white;
-}
-
 .name {
     text-align: center;
     margin-top: 10%;
@@ -136,6 +128,9 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+    .navbar-brand {
+        font-size: 15px;
+    }
     .links {
         display: none;
     }
